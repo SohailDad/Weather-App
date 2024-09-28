@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-align: center;
+}
+.main-div{
+  border-radius: 30px;
+  height: 350px;
+  
+}
+.main-div input{
+  background-color: rgb(234, 231, 236);
+  border-radius: 20px;
+  border: none;
+  margin-bottom: 40px;
+}
+button{
+  border-radius: 20px ;
+  margin-bottom: 40px;
+  
+}
