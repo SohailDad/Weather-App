@@ -1,4 +1,4 @@
-# Weather App in react js.
+# Weather App in react js
 
 ![alt text](weather-App.PNG)
 
